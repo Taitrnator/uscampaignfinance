@@ -1,0 +1,39 @@
+{
+  "name": "superadmindashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "d3": "^5.7.0",
+    "d3-geo": "^1.11.1",
+    "lodash": "^4.17.11",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.0.5",
+    "react-simple-maps": "^0.12.1",
+    "topojson": "^3.0.2",
+    "topojson-client": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "extract-loader": "^3.0.0",
+    "file-loader": "^2.0.0",
+    "node-sass": "^4.9.4",
+    "sass-loader": "^7.1.0"
+  }
+}
